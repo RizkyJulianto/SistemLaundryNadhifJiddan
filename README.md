@@ -21,7 +21,6 @@ What I created and learned
   <li>Date formatting in c#</li>
   <li>Using Chart in .NET to create reports</li>
   <li>Learn to use TypeCasting in .NET</li>
-  <li>Learn functions in c#</li>
 </ul>
 
 
