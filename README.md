@@ -1,6 +1,6 @@
 
 # SistemLaundryNadhifJiddan
-SystemLaundryNadhifJiddan is my personal repostory at the time I participated in the district level Student Competency Competition. This project is made using .NET & C# programming language.For the database I used Microsoft SQL Server
+SystemLaundryNadhifJiddan is my personal repostory at the time I participated in the district level Student Competency Competition. This project is made using WindowsForm & C# programming language.For the database I used Microsoft SQL Server
 
 
 
